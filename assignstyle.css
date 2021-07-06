@@ -30,7 +30,7 @@ p{  font-size: 14px;}
 }
 .orange-color-h1{
     color: orange;
-    text-align:center;
+    text-align:left;
     background: -webkit-linear-gradient(orange, yellow,gold,red);
     text-emphasis-color: red;
     -webkit-background-clip: text;
