@@ -9,6 +9,7 @@ a{
     font-family: 'Otomanopee One', sans-serif;
     font-family: 'Ubuntu', sans-serif;  
 }
+
 h1{
     font-size: 40px;
     font-family: 'Otomanopee One', sans-serif;
@@ -78,7 +79,7 @@ p{  font-size: 14px;}
 }
 .dream-big{
     display: flex;
-    margin-top: 30px;
+    margin-top: 40px;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right ;
@@ -125,7 +126,7 @@ p{  font-size: 14px;}
 #footer-p{
     text-align: center;
     text-decoration: none;
-   background-image: linear-gradient(yellow, rgb(8, 240, 97));
+   background-image: linear-gradient(yellow, rgb(82, 241, 143));
    padding: 15px 30px;
    border-radius: 5px;
    color: rgb(74, 10, 250);
@@ -138,12 +139,25 @@ p{  font-size: 14px;}
     margin-bottom: 20px;
 }
 .button{
+    text-decoration: none;  
+   background-image: linear-gradient(yellow, rgb(240, 8, 190));
+   padding: 15px 30px;
+   border-radius: 10px;
+   color: rgb(0, 0, 0);
+   font-weight: 700;
+   box-shadow: 2px 2px 20px 0 rgb(248, 5, 175);
+   font-size: 150%;
+   cursor:pointer;
+   display: inline-block;
+}
+.button-top{
     text-decoration: none;
    background-image: linear-gradient(yellow, rgb(8, 240, 97));
    padding: 15px 30px;
-   border-radius: 5px;
-   color: rgb(74, 10, 250);
-   font-weight: 700;
+   border-radius: 10px;
+   color: rgb(102, 48, 48);
+   font-weight: 800;
+   font-size: 200%;
    box-shadow: 2px 2px 20px 0 rgb(248, 5, 175);
    cursor:pointer;
    display: inline-block;
