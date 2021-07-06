@@ -1,0 +1,145 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-size: 10px;
+}
+a{
+    font-size: 12px;
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Ubuntu', sans-serif;  
+}
+h1{
+    font-size: 40px;
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+h3{
+    font-size: 16px;
+}
+p{  font-size: 14px;}
+.orange-color{
+    color: orange;
+    text-align:center;
+}
+.orange-color-h1{
+    color: orange;
+    text-align:center;
+    background: -webkit-linear-gradient(orange, yellow,gold,red);
+    text-emphasis-color: red;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.orange-color{
+    color: orangered;
+}
+.banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+.onethird-width{
+    width: 33%;
+    padding-left: 8px;
+}
+.half-width img{
+    width:70%;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(yellow, orange);
+   padding: 15px 30px;
+   border-radius: 5px;
+   color: rgb(253, 8, 8);
+   font-weight: 1000;
+   box-shadow: 2px 2px 20px 0 black;
+   cursor:pointer;
+   display: inline-block;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-big{
+    display: flex;
+    margin-top: 30px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right ;
+    margin-bottom: 20px;
+}
+.flaxible{
+    display: flex;
+}
+.experience-area{
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 8px 5px 40px;
+    padding-left: 10px;
+    border-radius: 20px;
+    border-left: 5px solid;
+}
+.flaxible{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.ecperience h1{
+    margin-left: 5%;
+}
+#web-experience3{
+    text-align: left;
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow, purple);
+    border-image-slice: 5;
+}
+#web-experience2{
+    text-align: left;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 5;
+}
+#web-experience1{
+    text-align: left;
+    border-left:8px solid;
+    border-image: linear-gradient(tomato, green);
+    border-image-slice: 1;
+}
+#footer-p{
+    text-align: center;
+    text-decoration: none;
+   background-image: linear-gradient(yellow, rgb(8, 240, 97));
+   padding: 15px 30px;
+   border-radius: 5px;
+   color: rgb(74, 10, 250);
+   font-weight: 700;
+   box-shadow: 2px 2px 20px 0 rgb(248, 5, 175);
+   cursor:pointer;
+   display: inline-block;
+}
+.ecperience{
+    margin-bottom: 20px;
+}
+.button{
+    text-decoration: none;
+   background-image: linear-gradient(yellow, rgb(8, 240, 97));
+   padding: 15px 30px;
+   border-radius: 5px;
+   color: rgb(74, 10, 250);
+   font-weight: 700;
+   box-shadow: 2px 2px 20px 0 rgb(248, 5, 175);
+   cursor:pointer;
+   display: inline-block;
+}

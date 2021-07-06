@@ -1,0 +1,31 @@
+FB live...
+
+> border image slice (study...and use) 
+     ছবির একটা অংশ ইমেজ এর জন্য ব্যবহার করা। 
+> not float ..rather flex  (study...???) ** 
+> no bootstrap or extra advanced feature 
+> inline radious (PREFER NOT to use) ** 
+> no media query
+> slice use..
+> navigation can be used
+> meaningful word  for h1,2,3 or p
+> never skip (BE VERY CAREFULL)
+> SIMPLE HTML and CSS extra (similer to other portfolio   website..>>> it will give extra number**.
+>> Realistic/meaningful** word-sentence = have to   use...
+> assignment download: git download, git clone, ..alternative.. 
+>> ** assignment MARKS = no FB post 
+>> foodnetwork.fig    figma.com (may use...)
+==========================================
+==========================================
+1. food related website= must
+2. different color or shap can be used or not
+3. real text not lorem	epsum...
+4. background
+5. button have to live (should be redirected to another page.
+6. my recipies : 
+but under tile shoud be radious shape , picture , 
+title, description, box shadow..
+7: portfolio , landing website concept for extra bonus 
+8. id, class meaningful name, and simple use ...
+not complex and too many id. 
+9. use class in different tag
